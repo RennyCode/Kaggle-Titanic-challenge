@@ -34,14 +34,14 @@ The work has two parts, matching my own proggress in the subject, the fist part 
 - Hyper-Parameters Searches: Gridsearch, randomSearch
 
 ## Theory - TLDR
--MPL, Multilayer perceptron classifier
--SGD, Stochastic gradient descent classifier
--knn based on similarity or distance between the input to the known examples.
--Naive Bayes uses probabilities calculation for classification.
--Feature Selection uses a greedy methonds to create mutiple models with different features and select the best preforming one.
--k-Fold divides the data to k chunks and each model uses a different chuck as the validation.
--Ensemble, the idea of using multiple models to base your prediction on.
--Baggin, combining repetitions with combinations to create multi-sets of the original data.
--Boosting, iterative strategy for adjusting an observation's weight based on the previous classification.
--Grindsearch, sample consistinly along in a specific range to find the best parameters
--randomsearch, sample randomly in a range to find the best parameters
+- MPL, Multilayer perceptron classifier.
+- SGD, Stochastic gradient descent classifier.
+- knn based on similarity or distance between the input to the known examples.
+- Naive Bayes uses probabilities calculation for classification.
+- Feature Selection uses a greedy methonds to create mutiple models with different features and select the best preforming one.
+- k-Fold divides the data to k chunks and each model uses a different chuck as the validation.
+- Ensemble, the idea of using multiple models to base your prediction on.
+- Baggin, combining repetitions with combinations to create multi-sets of the original data.
+- Boosting, iterative strategy for adjusting an observation's weight based on the previous classification.
+- Grindsearch, sample consistinly along in a specific range to find the best parameters.
+- randomsearch, sample randomly in a range to find the best parameters.
