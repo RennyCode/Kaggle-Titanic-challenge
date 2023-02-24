@@ -33,7 +33,7 @@ The work has two parts, matching my own proggress in the subject, the fist part 
 - Ensembles: Bagging, Boosting
 - Hyper-Parameters Searches: Gridsearch, randomSearch
 
-## Theory - TLDR
+## Technical Terms - TLDR
 - MPL, Multilayer perceptron classifier.
 - SGD, Stochastic gradient descent classifier.
 - knn based on similarity or distance between the input to the known examples.
