@@ -1,6 +1,6 @@
 ## Kaggle Titanic challenge
 
-The project is an entry for the Titanic challenge in the Kaggle website, in this challenge we are tasked with creating a prediction model to predict the survival of an individual.
+The project is an entry for the Titanic challenge in the Kaggle website, in this challenge we are tasked with creating a classification model to predict the survival of an individual.
 The work has two parts, matching my own progress in the subject, the first part includes the data preparations and usage of SGD and MLP models for prediction, the second part builds upon the work of the first part and makes use of more advance methods and models. 
 
 ## Workflow
